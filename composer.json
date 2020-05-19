@@ -1,0 +1,19 @@
+{
+    "name": "muhammadadibahmadroslan/api-consume",
+    "description": "this is a demo for consuming api",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0@dev"
+    },
+    "require-dev": {
+        "fzaninotto/faker": "^1.9@dev"
+    },
+    "license": "none",
+    "authors": [
+        {
+            "name": "Muhammad Adib Ahmad Roslan",
+            "email": "adbroslan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
